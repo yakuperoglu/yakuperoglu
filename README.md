@@ -11,6 +11,9 @@
   <a href="https://yakuperoglu.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-yakuperoglu.com-bb86fc?style=for-the-badge&labelColor=121212" alt="Portfolio - yakuperoglu.com" />
   </a>
+  <a href="https://play.google.com/store/apps/developer?id=porta&hl=tr" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Porta_Games-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=121212" alt="Google Play - Porta" />
+  </a>
   <a href="https://portacom.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-Porta_Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=121212" alt="itch.io" />
   </a>
@@ -53,12 +56,13 @@ primary_focus:
   - "PC Game Development (Unity 2D & 3D, Horror, Platformer, Dungeon Crawler)"
   - "Game Backend & LiveOps (Real-Time Multiplayer, Leaderboards, Firebase, IAP & AdMob)"
 website: "https://yakuperoglu.com"
+google_play: "https://play.google.com/store/apps/developer?id=porta&hl=tr"
 itch_io: "https://portacom.itch.io"
 location: "Türkiye 🇹🇷"
 ```
 
 - 🎮 **Game Developer at heart:** I design and build **Mobile & PC games** from core gameplay mechanics and physics to polished UI, shaders, and monetization/leaderboard systems.
-- 📱 **Mobile & Cross-Platform:** Developing and publishing mobile titles under **Porta**, integrating real-time multiplayer servers, Firebase cloud saves, global leaderboards, AdMob, and In-App Purchases.
+- 📱 **Mobile & Cross-Platform:** Developing and publishing mobile titles on **[Google Play Store (Porta)](https://play.google.com/store/apps/developer?id=porta&hl=tr)**, integrating real-time multiplayer servers, Firebase cloud saves, global leaderboards, AdMob, and In-App Purchases.
 - 🏆 **Game Jam Veteran:** Active participant in **Global Game Jam** and university game jams (*2nd Place Winner* with *HiLight* — built in 24 hours).
 - ⚡ **Full-Stack Engineering Edge:** Beyond game engines, I build scalable backends, multiplayer socket servers, open-source CLI/npm tools, and high-performance web applications.
 
@@ -66,14 +70,14 @@ location: "Türkiye 🇹🇷"
 
 ## 🎮 Featured Games (Mobile & PC)
 
-### 📱 Mobile Games
+### 📱 Mobile Games — [Google Play Store (Porta) ↗](https://play.google.com/store/apps/developer?id=porta&hl=tr)
 
-| Game | Genre & Platform | Highlights & Tech Stack |
-| :--- | :--- | :--- |
-| **🐾 Drop Merge: Animals** | *Mobile Puzzle / Arcade*<br/>`(Android · Porta)` | Physics-based animal merge puzzle featuring Google Play authentication, global **Firebase** leaderboards, AdMob, and IAP integration. |
-| **💸 10TL — Clicker & Tycoon** | *Mobile Idle / Tycoon*<br/>`(Android · Cross-Platform)` | Deep idle clicker & business tycoon game with employee progression, staking mechanics, offline earnings, and 8 mini-game modes. |
-| **🀄 51 Okey Online** | *Real-Time Multiplayer*<br/>`(Mobile & Tablet)` | Online multiplayer tabletop game with a custom game engine, real-time room & turn synchronization, and **Firebase** backend. |
-| **💨 Smoke Game Simulator** | *Mobile Simulation*<br/>`(Android · Porta)` | Lightweight interactive mobile simulator crafted and published under the **Porta** indie label. |
+| Game | Genre & Platform | Highlights & Tech Stack | Store |
+| :--- | :--- | :--- | :--- |
+| **🐾 [Drop Merge: Animals](https://play.google.com/store/apps/developer?id=porta&hl=tr)** | *Mobile Puzzle / Arcade*<br/>`(Android · Porta)` | Physics-based animal merge puzzle featuring Google Play authentication, global **Firebase** leaderboards, AdMob, and IAP integration. | [▶️ Google Play](https://play.google.com/store/apps/developer?id=porta&hl=tr) |
+| **💸 [10TL — Clicker & Tycoon](https://play.google.com/store/apps/developer?id=porta&hl=tr)** | *Mobile Idle / Tycoon*<br/>`(Android · Porta)` | Deep idle clicker & business tycoon game with employee progression, staking mechanics, offline earnings, and 8 mini-game modes. | [▶️ Google Play](https://play.google.com/store/apps/developer?id=porta&hl=tr) |
+| **🀄 51 Okey Online** | *Real-Time Multiplayer*<br/>`(Mobile & Tablet)` | Online multiplayer tabletop game with a custom game engine, real-time room & turn synchronization, and **Firebase** backend. | `In Dev / Android` |
+| **💨 [Smoke Game Simulator](https://play.google.com/store/apps/developer?id=porta&hl=tr)** | *Mobile Simulation*<br/>`(Android · Porta)` | Lightweight interactive mobile simulator crafted and published under the **Porta** indie label. | [▶️ Google Play](https://play.google.com/store/apps/developer?id=porta&hl=tr) |
 
 ### 🖥️ PC & Game Jam Titles — [Play on itch.io ↗](https://portacom.itch.io/)
 
@@ -137,6 +141,6 @@ Alongside game development, I build full-stack platforms and developer tools. Yo
 
 ### 🌐 Let's Connect & Build Games Together!
 
-[**🖥️ yakuperoglu.com**](https://yakuperoglu.com) &nbsp;•&nbsp; [**🕹️ portacom.itch.io**](https://portacom.itch.io/) &nbsp;•&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/yakuperogl/) &nbsp;•&nbsp; [**✉️ yakup.erogl@gmail.com**](mailto:yakup.erogl@gmail.com)
+[**🖥️ yakuperoglu.com**](https://yakuperoglu.com) &nbsp;•&nbsp; [**▶️ Google Play (Porta)**](https://play.google.com/store/apps/developer?id=porta&hl=tr) &nbsp;•&nbsp; [**🕹️ portacom.itch.io**](https://portacom.itch.io/) &nbsp;•&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/yakuperogl/) &nbsp;•&nbsp; [**✉️ yakup.erogl@gmail.com**](mailto:yakup.erogl@gmail.com)
 
 </div>
